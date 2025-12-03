@@ -7,11 +7,11 @@
 This repository contains various C programs created for learning, practicing, and mastering the fundamentals of programming.
 Each program demonstrates a key concept of structured programming, problem-solving, and algorithmic thinking.
 
-Whether you are a beginner or revising core concepts, this repo will help you build a strong foundation in the C language.
+Whether you are a beginner or revising core concepts, this repo will help you build a strong foundation in the C language.<br><br>
 
 
 
-# 📚 Topics Covered
+📚 Topics Covered
 
 - ✅ **Basic Input / Output**
 - ✅ **Variables & Data Types**
@@ -23,7 +23,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 - ✅ **Pointers**
 - ✅ **Pattern Printing**
 - ✅ **Problem Solving Programs**
-- ✅ **Mini Projects**
+- ✅ **Mini Projects** <br><br>
 
 
 
@@ -44,7 +44,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 
 ✨Prepare for exams, contests, and interviews
 
-✨Build confidence for advanced languages (C++, Java, Python)
+✨Build confidence for advanced languages (C++, Java, Python)<br><br>
 
 
 
@@ -52,7 +52,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 
 Programming Language	C  
 Compiler	GCC / MinGW / Clang  
-IDE / Editor	VS Code, Code::Blocks 
+IDE / Editor	VS Code, Code::Blocks <br><br>
 
 
 
@@ -60,7 +60,7 @@ IDE / Editor	VS Code, Code::Blocks
 
 👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
-Bangladesh 🇧🇩
+Bangladesh 🇧🇩 <br><br>
 
 
 
