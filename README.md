@@ -11,7 +11,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 
 
 
-#📚 Topics Covered
+# 📚 Topics Covered
 
 - ✅ **Basic Input / Output**
 - ✅ **Variables & Data Types**
@@ -28,7 +28,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 
 
 
-#🎯 Learning Goals
+# 🎯 Learning Goals
 
 ✨By exploring this repository, learners will be able to:
 
@@ -48,7 +48,7 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 
 
 
-#🛠 Tools & Languages
+# 🛠 Tools & Languages
 
 Programming Language	C  
 Compiler	GCC / MinGW / Clang  
@@ -56,7 +56,7 @@ IDE / Editor	VS Code, Code::Blocks <br><br>
 
 
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 👤 Khondoker Almikat  
 📧 khondoker.almikat@gmail.com  
