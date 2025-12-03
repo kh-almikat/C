@@ -10,19 +10,22 @@ Each program demonstrates a key concept of structured programming, problem-solvi
 Whether you are a beginner or revising core concepts, this repo will help you build a strong foundation in the C language.
 
 
-📚 Topics Covered
 
-✔ Basic Input / Output
-✔ Variables & Data Types
-✔ Operators
-✔ Conditional Statements — if, else, switch
-✔ Loops — for, while, do‒while
-✔ Functions & Modular Programming
-✔ Arrays & Strings
-✔ Pointers 
-✔ Pattern Printing
-✔ Problem Solving Programs
-✔ Mini Projects
+# 📚 Topics Covered
+
+- ✅ **Basic Input / Output**
+- ✅ **Variables & Data Types**
+- ✅ **Operators**
+- ✅ **Conditional Statements** — if, else, switch
+- ✅ **Loops** — for, while, do‒while
+- ✅ **Functions & Modular Programming**
+- ✅ **Arrays & Strings**
+- ✅ **Pointers**
+- ✅ **Pattern Printing**
+- ✅ **Problem Solving Programs**
+- ✅ **Mini Projects**
+
+
 
 
 🎯 Learning Goals
@@ -44,24 +47,27 @@ Whether you are a beginner or revising core concepts, this repo will help you bu
 ✨Build confidence for advanced languages (C++, Java, Python)
 
 
+
 🛠 Tools & Languages
-Item	Details
-Programming Language	C
-Compiler	GCC / MinGW / Clang
-IDE / Editor	VS Code, Code::Blocks
+
+Programming Language	C  
+Compiler	GCC / MinGW / Clang  
+IDE / Editor	VS Code, Code::Blocks 
+
 
 
 👨‍💻 Author
 
-👤 Khondoker Almikat
-📧 khondoker.almikat@gmail.com
+👤 Khondoker Almikat  
+📧 khondoker.almikat@gmail.com  
 Bangladesh 🇧🇩
+
 
 
 ⭐ Support the Project
 
 If you like this repository, don't forget to:
 
-👍 Star this repo
-🔄 Fork it
-🐞 Report issues
+👍 Star this repo  
+🔄 Fork it  
+🐞 Report issues  
