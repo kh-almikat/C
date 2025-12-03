@@ -2,7 +2,7 @@
 🌟 C Programming Project
 <p align="center"> <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge"> </p>
 
-#📖 Overview
+# 📖 Overview
 
 This repository contains various C programs created for learning, practicing, and mastering the fundamentals of programming.
 Each program demonstrates a key concept of structured programming, problem-solving, and algorithmic thinking.
